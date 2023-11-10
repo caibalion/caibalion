@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caibalion&label=Profile%20views&color=0e75b6&style=flat" alt="caibalion" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, and JS. And looking forward to make it into TS and it's Frameworks**
+- 🌱 **Focusing on React JS|Javascript development, and seeking to delve deeper into Typescript, NodeJS, ReactNative and other stacks. **
 
 - 📫 How to reach me **lucasalexti@gmail.com**
 
