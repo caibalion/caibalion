@@ -29,7 +29,7 @@ Além da programação, busco me aventurar em outros âmbitos da criação, como
 
 <div>
   <a href="https://github.com/caibalion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caibalion&layout=compact&langs_count=7&theme=dracula"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caibalion&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caibalion&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=caibalion&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
