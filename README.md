@@ -34,5 +34,4 @@ Além da programação, busco me aventurar em outros âmbitos da criação, como
 </div>
 
 ##
-
-![Snake animation](https://github.com/caibalion/caibalion/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
