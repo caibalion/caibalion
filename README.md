@@ -1,7 +1,7 @@
 # Olá! Bem vindo ao <i>Caibalion</i>!
 ## Meu nome é Lucas Alex, e esse é o meu perfil GitHub
 
-Estou finalizando minha graduação em Ciências da Computação pela UniRuy - Wyden, e depois de transitar em outras áreas tech, inicio minha carreira no desenvolvimento de software.
+Engenharia de Software pela Universidade Católita do Salvador (UCSAL)
 <div align="center"><img src="https://media.tenor.com/xgioQU8Uo9wAAAAC/the-batman.gif" alt="Batman tirando a máscara dentro da Batcaverna"></div><br/>
 Além da programação, busco me aventurar em outros âmbitos da criação, como a escrita criativa e composição musical. Quem sabe eu não consiga juntar tudo isso em uma coisa só? HAHAHA
 
