@@ -9,7 +9,7 @@ Além da programação, busco me aventurar em outros âmbitos da criação, como
 
 ### Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />          <img src="https://e7.pngegg.com/pngimages/932/481/png-clipart-fluig-business-totvs-information-technology-management-business-text-people.png" width="80" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />          
           
           
           
